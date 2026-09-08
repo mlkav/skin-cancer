@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Failed to load image classifier.</string>
+    <string name="no_image_selected">No image selected.</string>
+    <string name="empty_history">No history found.</string>
+    <string name="save_result">Save Result</string>
+    <string name="history">History</string>
+    <string name="news">News</string>
+    <string name="app_description">Skin Cancer Detection App</string>
+    <string name="developed_by">Developed by:</string>
+    <string name="author_name">Maulana Kavaldo</string>
+    <string name="linkedin_profile">LinkedIn Profile</string>
+    <string name="info">Info</string>
+    <string name="news_image">News Image</string>
+    <string name="result_image">Result Image</string>
+    <string name="read_more">Read More at Source</string>
+    <string name="profile_picture">Profile Picture</string>
+</resources>
