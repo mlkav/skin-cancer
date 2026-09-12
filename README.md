@@ -51,6 +51,12 @@ The project contains one Android application module, `:app`. The source code is 
 
 View Binding is used by Activities and adapters to access layout views. `NewsActivity` uses Retrofit callbacks for network requests, while `ResultActivity` performs Room operations through `lifecycleScope`.
 
+## Environment variable at local.properties
+
+```
+API_KEY="api_key_newsapi.org"
+BASE_URL="https://newsapi.org/v2/"
+```
 ## Machine Learning
 
 ### Model
